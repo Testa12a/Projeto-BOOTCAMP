@@ -11,17 +11,13 @@
     display: flex;
     align-items: center;
     border-bottom: 2px solid #BABABA;
-    
-
-}
+    }
 
 #menu{  
     display: flex;
     width: 55%;
     justify-content: space-around;
     align-items: center;
-
-        
 }
 
 #menu a{
@@ -44,9 +40,10 @@
     border: 0px;
     font-weight: 600;
     font-size: 20px;
+    cursor: pointer;
 }
 
 #menu  button:hover{
-    color:#cccc;
-    
+    color:#cccc;   
 }
+
