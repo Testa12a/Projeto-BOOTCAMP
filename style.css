@@ -47,3 +47,7 @@
     color:#cccc;   
 }
 
+#form{
+    display:grid;
+    grid-auto-flow: column;   
+}
