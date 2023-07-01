@@ -1,6 +1,12 @@
 *{
     margin: 0px; /*  margin interna*/
     padding: 0px;   /* margin externa*/
+    
+    /* COR LINEAR CONFORME O FIGMA E DISGNER DA PÁGINA EM GERAL*/
+    background: linear-gradient(180deg, rgba(12, 112, 242, 0.5) 19.91%, rgba(12, 112, 242, 0) 24.84%),
+    linear-gradient(0deg, #303030, #303030),
+    linear-gradient(0deg, #BABABA, #BABABA);
+    background-repeat: no-repeat;
 }
 
 
@@ -12,6 +18,7 @@
     display: flex;
     align-items: center;
     border-bottom: 2px solid #BABABA;
+    
     }
 
 #menu{  
