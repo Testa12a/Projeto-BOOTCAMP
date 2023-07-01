@@ -3,6 +3,7 @@
     padding: 0px;   /* margin externa*/
 }
 
+
 #superior{
     font-family: 'inter';
     background-color: #303030;
@@ -45,4 +46,14 @@
 
 #menu  button:hover{
     color:#cccc;   
+}
+
+
+section{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top:100px;
+    margin-bottom: 100px;
 }
