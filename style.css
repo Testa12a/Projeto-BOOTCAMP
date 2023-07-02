@@ -6,7 +6,7 @@
 }
 
 
-
+/* PARTE INICIO MENU DE NAV*/
 .superior{
     height: 103px;
     display: flex;
@@ -48,4 +48,9 @@
     color: #BABABA;
 }
 
+/* PARTE DO FOOTER - COM DESCRIPT E ATUALIZAÇÕES*/
 
+nav{
+    display: flex;
+    align-items: center;
+}
