@@ -3,9 +3,49 @@
     padding: 0px;   /* margin externa*/
     
     /* COR LINEAR CONFORME O FIGMA E DISGNER DA PÁGINA EM GERAL*/
-    background: linear-gradient(180deg, rgba(12, 112, 242, 0.5) 19.91%, rgba(12, 112, 242, 0) 24.84%),
-    linear-gradient(0deg, #303030, #303030),
-    linear-gradient(0deg, #BABABA, #BABABA);
-    background-repeat: no-repeat;
 }
+
+
+
+.superior{
+    height: 103px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #303030;
+    
+}
+
+.superior a{
+    text-decoration: none;
+    color:#FFFFFF;
+    padding: 30px;
+    font-family: 'Inter';
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+
+}
+
+.superior button{
+    background-color: #0C70F2;
+    color:#FFFFFF;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 400;
+    width: 95px;
+    height: 30px;
+    border: 0px;
+    box-shadow: 3px 2px 4px 0px #0C70F240;
+}
+
+.superior button:hover{
+    background-color: #BABABA;
+}
+
+.superior a:hover{
+    color: #BABABA;
+}
+
 
