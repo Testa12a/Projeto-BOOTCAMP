@@ -1,6 +1,7 @@
 *{
     margin: 0px; /*  margin interna*/
     padding: 0px;   /* margin externa*/
+    box-sizing: border-box;
     
     /* COR LINEAR CONFORME O FIGMA E DISGNER DA PÁGINA EM GERAL*/
 }
